@@ -1,4 +1,4 @@
-# TTS-NL-EN FireFox add-on
+# TTS-NL/nl-EN/us FireFox add-on
 
 Link: "about:debugging"
 (about:debugging#/runtime/this-firefox)
