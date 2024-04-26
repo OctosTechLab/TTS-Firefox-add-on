@@ -1,5 +1,7 @@
 # TTS (NL-nl, EN-us) FireFox add-on
 
+<p align="center"><a href="#"><img width="30%" alt="ProPurplePink" src="img/tts.png" /></a></p>
+
 NL
 -
 Als je een add-on wilt toevoegen aan Mozilla Firefox via de "about:debugging" pagina, volg dan de onderstaande stappen:
